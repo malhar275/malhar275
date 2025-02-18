@@ -8,4 +8,5 @@
 🏆 Hackathons & Building Innovative Solutions
 
 🌱 Currently Exploring: AWS, Scalable Backend Architectures
+
 📫 How to reach me: https://www.linkedin.com/in/malhar-ruparel-48b352224/
