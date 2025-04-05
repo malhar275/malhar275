@@ -9,4 +9,4 @@
 
 🌱 Currently Exploring: AWS, Scalable Backend Architectures
 
-📫 How to reach me: https://www.linkedin.com/in/malhar-ruparel-48b352224/
+📫 How to reach me : malharruparel@gmail.com
